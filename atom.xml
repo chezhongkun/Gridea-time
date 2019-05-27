@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akuntime.cn/</id>
     <title>无心木偶</title>
-    <updated>2019-05-27T08:21:35.647Z</updated>
+    <updated>2019-05-27T08:31:14.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://akuntime.cn/"/>
     <link rel="self" href="https://akuntime.cn//atom.xml"/>
@@ -346,11 +346,17 @@ CSS 文件、JavaScript 脚本等也可以放到 CDN 那里，
         <link href="https://akuntime.cn//post/wang-zhan-tui-jian">
         </link>
         <updated>2019-05-27T07:49:05.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="网站推荐">网站推荐</h1>
-<h3 id="design">design</h3>
+        <content type="html"><![CDATA[<h3 id="design">design</h3>
 <ul>
 <li>站酷</li>
 <li>优设</li>
+<li>致设计</li>
+</ul>
+<h3 id="灵感收集">灵感收集</h3>
+<ul>
+<li>花瓣</li>
+<li>behance</li>
+<li>didder</li>
 <li></li>
 </ul>
 ]]></content>
