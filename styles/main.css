@@ -775,7 +775,28 @@ td {
   font-weight: bold;
 }
 
-      .main {
-        max-width: 1000px;
+      .post-detail .post .post-content p {
+        font-size: 14px;
       }
+    
+      body {
+    position: relative;
+    font-family: Lato,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size: 14px;
+    line-height: 1;
+    color: #555;
+    background: #fff;
+}
+* {
+    font-weight: 500!important;
+    text-shadow: 0.01em 0.01em 0.01em #999999 !important;
+}
+.posts-expand .post-body ul li {
+    list-style: circle;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
     
