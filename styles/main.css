@@ -783,7 +783,6 @@ td {
     position: relative;
     font-family: Lato,"PingFang SC","Microsoft YaHei",sans-serif;
     font-size: 14px;
-    line-height: 1;
     color: #555;
     background: #fff;
 }
@@ -798,5 +797,4 @@ li {
     display: list-item;
     text-align: -webkit-match-parent;
 }
-
     
