@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akuntime.cn/</id>
     <title>无心木偶</title>
-    <updated>2019-05-27T08:38:45.355Z</updated>
+    <updated>2019-06-17T03:03:25.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://akuntime.cn/"/>
     <link rel="self" href="https://akuntime.cn//atom.xml"/>
@@ -11,6 +11,178 @@
     <logo>https://akuntime.cn//images/avatar.png</logo>
     <icon>https://akuntime.cn//favicon.ico</icon>
     <rights>All rights reserved 2019, 无心木偶</rights>
+    <entry>
+        <title type="html"><![CDATA[Mac 自己使用的软件]]></title>
+        <id>https://akuntime.cn//post/mac-zi-ji-shi-yong-de-ruan-jian</id>
+        <link href="https://akuntime.cn//post/mac-zi-ji-shi-yong-de-ruan-jian">
+        </link>
+        <updated>2019-06-17T02:59:25.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="mac-自己使用的软件">Mac 自己使用的软件</h1>
+<hr>
+<p>君子生非异也，善假于物也。—— <strong>荀子</strong></p>
+<hr>
+<hr>
+<ul>
+<li>
+<p>记录</p>
+<p>本篇文件编辑于 2019-06-06</p>
+<p>陆续会更新在使用的「软件」</p>
+<p>写这篇文章没有特别的意思，只是突然想记录一下我的「生活」我的「工作」「我」</p>
+<p>一直想写一些东西但是因为「懒」因为对「语言」的组织问题一直搁置了今天就把我想要写的东西记录下来，以后看一下也不错</p>
+</li>
+</ul>
+<hr>
+<h2 id="mac-版本">Mac 版本</h2>
+<p><img src="_2019-06-06_1-15265731-6ff4-43c4-8268-3d1b024863d8.42.29.png" alt=""></p>
+<h2 id="经常使用的软件">经常使用的软件</h2>
+<ol>
+<li>Adobe Photoshop
+<ul>
+<li>Photoshop 我最常用的软件之一，工作原因没有办法</li>
+</ul>
+</li>
+<li>Adobe Bridge
+<ul>
+<li>bridge 这是我用过最好的图片管理软件没有之一</li>
+<li>只要我在 Adobe 家族的软件 bridge 这个软件就会必装</li>
+</ul>
+</li>
+<li>微信
+<ul>
+<li>没办法公司里面的人主要用的聊天工具</li>
+<li>目前在了解telegram</li>
+</ul>
+</li>
+<li>QQ
+<ul>
+<li>目前还是在用 QQ 很少聊天了，基本上就是接收一些邮件</li>
+<li>目前在了解telegram</li>
+</ul>
+</li>
+<li>shadowsocks
+<ul>
+<li>在国内必不可少的软件</li>
+</ul>
+</li>
+<li>snip
+<ul>
+<li>腾讯出品的截图软件</li>
+<li>好像早已经停止更新了</li>
+</ul>
+</li>
+<li>alfred 3
+<ul>
+<li>效率软件</li>
+<li>必装</li>
+</ul>
+</li>
+<li>cleanmymac x
+<ul>
+<li>Mac 上垃圾清理软件，心里作用吧</li>
+<li>目前用这个软件卸载软件用</li>
+</ul>
+</li>
+<li>mweb
+<ul>
+<li>md 文件编辑软件</li>
+<li>使用过很多的 md 编辑软件用的最习惯的还是 mweb</li>
+</ul>
+</li>
+<li>notion
+<ul>
+<li>06 年的时候就在少数派上面看到推荐 notion 还自己邀请自己，现在无限的 blog</li>
+<li>还正在研究中</li>
+</ul>
+</li>
+<li>Google Chrome
+<ul>
+<li>一直使用的浏览器，想替换但是替换不了，扩展和书签还包括密码都在 Google Chrome 上面了，之前也使用过 Safari 没有坚持下来</li>
+</ul>
+</li>
+<li>印象笔记
+<ul>
+<li>03 年的时候就开始使用了，基本上就是保存一些网页的内容</li>
+<li>保存了太多内容，很大一部分没有看过 ennnnnnnn</li>
+</ul>
+</li>
+<li>IIna
+<ul>
+<li>最良心的视频播放软件</li>
+<li>强烈推荐</li>
+</ul>
+</li>
+<li>Eagle
+<ul>
+<li>素材收集整理软件</li>
+</ul>
+</li>
+<li>ScreenFlow
+<ul>
+<li>视频录制软件很强大，大部分屏幕录制都是用 ScreenFlow 录制完成的</li>
+</ul>
+</li>
+<li>Bartender
+<ul>
+<li>一直使用都是盗版，等打折入了</li>
+<li>受不了右上角状态栏一堆图标的感觉</li>
+</ul>
+</li>
+<li>Keynote
+<ul>
+<li> 出品必是精品</li>
+<li>里面的动画真的是牛逼</li>
+</ul>
+</li>
+<li>Numbers
+<ul>
+<li> 出品必是精品</li>
+<li>文档编辑</li>
+</ul>
+</li>
+<li>Pages
+<ul>
+<li> 苹果出品必是精品</li>
+<li>类似 Word文档编辑软件</li>
+</ul>
+</li>
+<li>The Unarchiver
+<ul>
+<li>RAR 文件解压软件免费</li>
+</ul>
+</li>
+<li>Thunder
+<ul>
+<li>迅雷破解版</li>
+<li>目前还没有找到什么可以替换迅雷的软件</li>
+</ul>
+</li>
+<li>TotalFinder
+<ul>
+<li>Finder 文档增强插件</li>
+<li>老是感觉用上之后 Finder 变卡了</li>
+</ul>
+</li>
+<li></li>
+</ol>
+<h2 id="系统增强">系统增强</h2>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+<h2 id="待续">待续</h2>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[搭建个人博客]]></title>
         <id>https://akuntime.cn//post/da-jian-ge-ren-bo-ke</id>
