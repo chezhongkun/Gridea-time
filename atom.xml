@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akuntime.cn/</id>
     <title>无心木偶</title>
-    <updated>2019-08-13T07:05:15.747Z</updated>
+    <updated>2019-08-13T07:18:57.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://akuntime.cn/"/>
     <link rel="self" href="https://akuntime.cn//atom.xml"/>
@@ -12,6 +12,42 @@
     <icon>https://akuntime.cn//favicon.ico</icon>
     <rights>All rights reserved 2019, 无心木偶</rights>
     <entry>
+        <title type="html"><![CDATA[iPhone X ios12.1.1自用越狱插件分享2019-03-22更新]]></title>
+        <id>https://akuntime.cn//post/iphone-x-ios1211-zi-yong-yue-yu-cha-jian-fen-xiang-2019-03-22-geng-xin</id>
+        <link href="https://akuntime.cn//post/iphone-x-ios1211-zi-yong-yue-yu-cha-jian-fen-xiang-2019-03-22-geng-xin">
+        </link>
+        <updated>2019-08-13T07:17:24.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="iphone-x-ios1211自用越狱插件分享2019-03-22更新">iPhone X ios12.1.1自用越狱插件分享2019-03-22更新</h1>
+<blockquote>
+<p>首先说一下，iPhone 本身已经做的已经是非常完美的，只是iOS太过于封闭，想尝鲜😁</p>
+<p>以下推荐的插件，基本上不会太过于改变iOS本身。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="iphone-x-ios1211自用越狱插件分享2019-03-22更新">iPhone X ios12.1.1自用越狱插件分享2019-03-22更新</h1>
+<blockquote>
+<p>首先说一下，iPhone 本身已经做的已经是非常完美的，只是iOS太过于封闭，想尝鲜😁</p>
+<p>以下推荐的插件，基本上不会太过于改变iOS本身。</p>
+</blockquote>
+<!-- more -->
+<h5 id="废话少说直接上图">废话少说，直接上图</h5>
+<p><img src="https://ws4.sinaimg.cn/large/006tKfTcly1g1bnwg0zrhj30u01sz4qu.jpg" alt="IMG_0639"></p>
+<p><img src="https://ws3.sinaimg.cn/large/006tKfTcly1g1bnvxf8rqj30u01szkjp.jpg" alt="IMG_0639"></p>
+<p><img src="https://ws4.sinaimg.cn/large/006tKfTcly1g1bnx83lj6j30u01sze85.jpg" alt="IMG_0638"></p>
+<p><img src="https://ws2.sinaimg.cn/large/006tKfTcly1g1bnxhgesuj30u01szqv8.jpg" alt="IMG_0625"></p>
+<h5 id="插件-palert">插件 Palert</h5>
+<p><img src="https://ws2.sinaimg.cn/large/006tKfTcly1g1bnxmg6dnj30u01sz7wk.jpg" alt="IMG_0641"></p>
+<h5 id="原生输入法用的插件️-插件-nudekeys">原生输入法用的插件⌨️ 插件 NudeKeys</h5>
+<p><img src="https://ws2.sinaimg.cn/large/006tKfTcly1g1bo1dkcu2j30u01szn9e.jpg" alt="IMG_0624"></p>
+<h5 id="设置界面">设置界面</h5>
+<p><img src="https://ws1.sinaimg.cn/large/006tKfTcly1g1boqallyoj30u01hv13e.jpg" alt="1"></p>
+<p><img src="https://ws4.sinaimg.cn/large/006tKfTcly1g1boq9uzvhj30u01z917w.jpg" alt="2"></p>
+<h5 id="红色是我每一次-越狱都会安装的"><strong>红色是我每一次 越狱都会安装的</strong></h5>
+<h5 id="主题-janhavi每次越狱都会安装这个主题好像没有更新了-跟ios本身很协调">主题 Janhavi（每次越狱都会安装这个主题，好像没有更新了。跟iOS本身很协调）</h5>
+<p><img src="https://ws3.sinaimg.cn/large/006tKfTcly1g1bos5qjwbj30u00y3jx8.jpg" alt="IMG_0640"></p>
+<h5 id="字体-字由心雨微软雅黑-免费">字体 【字由心雨】微软雅黑 免费</h5>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我用过的很棒的工具]]></title>
         <id>https://akuntime.cn//post/wo-yong-guo-de-hen-bang-de-gong-ju</id>
         <link href="https://akuntime.cn//post/wo-yong-guo-de-hen-bang-de-gong-ju">
@@ -19,216 +55,19 @@
         <updated>2019-08-13T07:03:06.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="awesome-tools">awesome-tools</h1>
 <blockquote>
-<p>从 <a href="https://github.com/sorrycc/blog/issues/83">Blog</a> 迁移到 GitHub 仓库维护，可以有历史记录。</p>
+<p>从 [Blog][1] 迁移到 GitHub 仓库维护，可以有历史记录。</p>
 </blockquote>
 <h2 id="翻墙">翻墙</h2>
-<p>主 <a href="https://cloud.google.com/"><strong>google cloud</strong></a>，备 <a href="https://home.rixcloud.me/aff.php?aff=1432"><strong>rixcloud</strong></a>、<strong>阿里云香港</strong>和<strong>公司翻墙</strong>。</p>
+<p>主 [<strong>google cloud</strong>][2]，备 [<strong>rixcloud</strong>][3]、<strong>阿里云香港</strong>和<strong>公司翻墙</strong>。</p>
 <ul>
 <li>google cloud 免费，一年到期后可无限续，支持 netflix</li>
 <li>rixcloud 到期后可能不续了，有点贵，不过老牌服务商，比较稳定，支持 surge 客户端，当时买这个主要是为了看 netflix，后来 google cloud 支持 netflix 后就没必要再买他了</li>
-<li>软件方面，Mac 下用 <a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases"><strong>ShadowsocksX-NG-R</strong></a>，iPhone 下用 <a href="https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8"><strong>ShadowRocket</strong></a>（需切美区下载）</li>
-<li>通过 <a href="https://www.proxifier.com/"><strong>Proxifier</strong></a> 实现命令行应用或其他应用翻墙，比如 iTerm2 下执行 npm publish 偶尔会被墙，并且实测下来比 <code>export http_proxy</code> 快</li>
-<li>家里的路由器翻墙是用 <a href="https://www.asus.com/us/Networking/RT-AC88U/"><strong>RT-AC88U</strong></a> + <strong>梅林小宝版固件</strong></li>
-<li>电视上看 youtube 和 netflix 可以用 <a href="https://www.nvidia.com/en-us/shield/"><strong>Nvidia Shield TV</strong></a>，我买的美版，据说国版也可刷原生系统</li>
+<li>软件方面，Mac 下用 [<strong>ShadowsocksX-NG-R</strong>][4]，iPhone 下用 [<strong>ShadowRocket</strong>][5]（需切美区下载）</li>
+<li>通过 [<strong>Proxifier</strong>][6] 实现命令行应用或其他应用翻墙，比如 iTerm2 下执行 npm publish 偶尔会被墙，并且实测下来比 <code>export http_proxy</code> 快</li>
+<li>家里的路由器翻墙是用 [<strong>RT-AC88U</strong>][7] + <strong>梅林小宝版固件</strong></li>
+<li>电视上看 youtube 和 netflix 可以用 [<strong>Nvidia Shield TV</strong>][8]，我买的美版，据说国版也可刷原生系统</li>
 </ul>
 <h2 id="mac-软件">Mac 软件</h2>
-<p>用了 <a href="https://go.setapp.com/invite/sorrycc">SetApp</a>，包含以下的不少应用，能省不少。</p>
-<h3 id="编辑器和-terminal">编辑器和 Terminal</h3>
-<p>主 <a href="https://www.jetbrains.com/idea/"><strong>Intellij Idea</strong></a>，辅 <a href="https://code.visualstudio.com/"><strong>VSCode</strong></a> 和 <strong>Vim</strong>。选 Intellij Idea 的原因是无需安装插件就很好用，另外也是没有时间去折腾插件。</p>
-<ul>
-<li>字体主 <a href="https://dank.sh/"><strong>Dank Mono</strong></a>，辅 <a href="http://www.typography.com/fonts/operator/overview/"><strong>Operator Mono</strong></a>，看厌了一个换另一个</li>
-<li>Intellij Idea 使用 <a href="https://github.com/ChrisRM/material-theme-jetbrains"><strong>material-theme-jetbrains</strong></a>，Theme 选 Material One Dark，字号 16 号，行距 1.2，<a href="https://gw.alipayobjects.com/zos/rmsportal/JKRPNvvHhPgFonHHXvPe.png">效果图</a></li>
-<li>Intellij Idea 插件额外装了 <strong>File Watchers</strong>、<strong>GitLink</strong>、<strong>Import Cost</strong>、<strong>Prettier</strong> 和 <strong>Rainbow Brackets</strong></li>
-<li>Terminal 用 <a href="https://www.iterm2.com/"><strong>iTerm2</strong></a> + <a href="https://en.wikipedia.org/wiki/Z_shell"><strong>zsh</strong></a> + <a href="https://github.com/robbyrussell/oh-my-zsh"><strong>oh-my-zsh</strong></a> 的组合，主题是 <a href="https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme">robbyrussell</a></li>
-<li>zsh 的插件开了 git、autojump、brew、git、git-extra、git-flow、git-prompt、git-remote-branch、github、gitignore、history、history-substring-search、iterm2、node、npm、npx、nvm、tig、vscode、yarn、<a href="https://github.com/zsh-users/zsh-autosuggestions">zsh-autosuggestions</a></li>
-<li>iTerm2 里配 <code>Run command...</code> 为 <code>/usr/local/bin/idea \1</code> (<a href="https://zos.alipayobjects.com/rmsportal/RmWdxKRQUWFMoVDjerNQ.png">图</a>)，这样 Command + 点击文件路径，就会在 Intellij Idea 里打开</li>
-</ul>
-<h3 id="开发辅助">开发辅助</h3>
-<ul>
-<li><a href="https://www.sourcetreeapp.com/"><strong>SourceTree</strong></a>，git 辅助，由于 git 高级操作命令记不住，就只用借助 UI 了</li>
-<li><a href="https://paw.cloud/"><strong>Paw</strong></a>，请求模拟，前后端联调时我会用这个先走一遍</li>
-<li><a href="https://github.com/desktop/desktop"><strong>Github Desktop</strong></a>，管理 github 仓库的变更和 PR，代替了 SourceTree 的部分工作，可以方便地把别人的 PR checkout 到本地验证</li>
-<li><a href="https://github.com/2ndalpha/gasmask"><strong>Gas Mask</strong></a> ，Hosts 管理</li>
-<li><a href="https://colorsnapper.com/"><strong>ColorSnapper2</strong></a>，取色工具</li>
-<li><a href="https://www.charlesproxy.com/"><strong>Charles</strong></a>，抓包用，支持 https</li>
-<li><a href="https://www.google.com/chrome/"><strong>Google Chrome</strong></a> + <a href="https://www.google.com/chrome/canary/"><strong>Google Chrome Canary</strong></a> + <a href="https://www.mozilla.org/en-US/firefox/new/"><strong>Firefox</strong></a> + <strong>Safari</strong>，浏览器，调试用，IE 的测试会借助内网的云测平台</li>
-</ul>
-<h3 id="输出">输出</h3>
-<ul>
-<li><a href="https://www.notion.so/?r=159be429981b4725ad6f36c4f599bd98"><strong>Notion</strong></a>，笔记工具，准备逐渐从 Bear 迁到 Notion</li>
-<li><a href="http://www.bear-writer.com/"><strong>Bear</strong></a>，笔记工具，颜值高，订阅了 Pro，和手机同步</li>
-<li><a href="https://typora.io/"><strong>Typora</strong></a>，可以基于目录编辑 Markdown，所以 github 仓库的文档都会用他编辑</li>
-<li><a href="https://multimarkdown.com/"><strong>MultiMarkdown Composer</strong></a>，单文件的 markdown 编辑</li>
-<li><a href="https://www.omnigroup.com/omnigraffle"><strong>OmniGraffle</strong></a> + <a href="https://www.toketaware.com/ithoughts-osx"><strong>iThoughtsX</strong></a>，分别用于画架构图和和脑图</li>
-<li><a href="http://www.cockos.com/licecap/"><strong>LICEcap</strong></a> ，GIF 录屏工具</li>
-</ul>
-<h3 id="输入">输入</h3>
-<ul>
-<li><a href="http://reederapp.com/mac/"><strong>Reeder</strong></a>，RSS 阅读软件，我的主要信息来源，没有提供 rss 源的我会先在 <a href="https://docs.rsshub.app/"><strong>rsshub.app</strong></a> 上找，再没有就自己写一个 serverless 服务部署在 now@2 上</li>
-<li><a href="http://kiwiforgmail.com/"><strong>Kiwi for Gmail</strong></a>，Gmail 客户端</li>
-</ul>
-<h3 id="效率">效率</h3>
-<ul>
-<li><a href="https://www.alfredapp.com/"><strong>Alfred</strong></a> + <a href="https://www.alfredapp.com/powerpack/"><strong>Powerpack</strong></a>，应用启动、粘贴板管理、Workflow、Snippets 管理等</li>
-<li><a href="https://copiedapp.com/"><strong>Copied</strong></a>，粘贴板管理，之前一直用 Alfred 的粘贴板，试用后发现还是得用专业做粘贴板的工具</li>
-<li><a href="https://github.com/gbammc/Thor"><strong>Thor</strong></a>，一键直达应用</li>
-<li><a href="https://www.taskpaper.com/"><strong>TaskPaper</strong></a>，任务管理</li>
-<li><a href="https://www.omnigroup.com/omnifocus"><strong>OmniFocus</strong></a> ，任务管理，通过 Omni Sync Server 和 iPhone 同步</li>
-<li><a href="https://pqrs.org/osx/karabiner/"><strong>Karabiner Element</strong></a>，用于<a href="http://lucifr.com/2013/02/16/caps-lock-to-hyper-key/">把右 Command 和 Capslock 键利用起来</a>，避免快捷键冲突，<a href="https://hackmd.io/s/rk4u9i-pG">简单 note</a>，详见<a href="https://www.bilibili.com/video/av44127555">《我的快捷键技巧》</a></li>
-</ul>
-<h3 id="vlog-相关">vlog 相关</h3>
-<ul>
-<li><a href="http://www.telestream.net/screenflow/overview.htm"><strong>ScreenFlow</strong></a>，视频录制和剪辑</li>
-<li><a href="https://www.apple.com/final-cut-pro/"><strong>Final Cut Pro</strong></a>，视频剪辑</li>
-<li><a href="https://github.com/avibrazil/RDM"><strong>RDM</strong></a>，分辨率切换，允许设置未支持的分辨率，比如我会在录屏时设置 720p(hd) 的分辨率</li>
-<li><a href="https://github.com/keycastr/keycastr"><strong>KeyCastr</strong></a>，按键显示</li>
-</ul>
-<h3 id="其他">其他</h3>
-<ul>
-<li><a href="https://macpaw.com/cleanmymac"><strong>CleanMyMac 3</strong></a>，系统清理</li>
-<li><a href="https://1password.com/"><strong>1Password</strong></a>，密码管理</li>
-<li><a href="https://www.macbartender.com/"><strong>Bartender 3</strong></a>，管理系统右上菜单项，隐藏或收起不常用的</li>
-<li><a href="https://github.com/newmarcel/KeepingYouAwake"><strong>KeepingYouAwake</strong></a>，可保证系统不自动休眠</li>
-<li><a href="https://softorino.com/youtube-converter"><strong>Softorino YouTube Converter</strong></a>，YouTube 视频下载</li>
-<li><a href="http://software.charliemonroe.net/downie.php"><strong>Downie 3</strong></a>，通用视频下载</li>
-<li><a href="https://mac.eltima.com/download-manager.html"><strong>Folx 5</strong></a> + <a href="https://www.qbittorrent.org/"><strong>qBittorrent</strong></a> + <a href="https://motrix.app/"><strong>Motrix</strong></a>，下载工具，Folx 下 http，qBittorrent 下 magnet，Motrix 是 aria2 的封装，可以<a href="https://www.yuque.com/moapp/help/extensions">下百度云盘、115 等</a></li>
-<li><a href="https://justgetflux.com"><strong>f.lux</strong></a>，调节显示器色温，护眼，尤其是早上起来屏幕实在是刺眼</li>
-<li><a href="https://github.com/iina/iina"><strong>IINA</strong></a>，视频播放</li>
-<li><a href="https://itunes.apple.com/cn/app/perculia/id1462633284?mt=12"><strong>Perculia</strong></a> - 蓝牙设备管理</li>
-<li><a href="https://www.snipaste.com/"><strong>snipaste</strong></a>，截图工具，需要标注的时候用</li>
-<li><a href="https://zipzapmac.com/GetPlainText"><strong>Get Plain Text</strong></a>，自动清除粘贴板内容的格式</li>
-<li><a href="https://itunes.apple.com/nz/app/runcat/id1429033973?mt=12&amp;ref=appinn"><strong>RunCat</strong></a> - 菜单栏显示奔跑的小猫，CPU 占用率越高跑地越快</li>
-<li><a href="https://tms.dingtalk.com/markets/dingtalk/download"><strong>钉钉</strong></a> + <a href="https://im.qq.com/macqq/"><strong>QQ</strong></a> + <a href="https://mac.weixin.qq.com/"><strong>微信</strong></a> + <a href="https://macos.telegram.org/"><strong>Telegram</strong></a> + <a href="https://slack.com/downloads/mac"><strong>Slack</strong></a>，通讯交流</li>
-<li><a href="https://www.tuxera.com/products/tuxera-ntfs-for-mac/"><strong>Tuxera NTFS</strong></a> - 支持 NTFS 格式</li>
-<li><a href="https://eternalstorms.at/yoink/"><strong>Yoink</strong></a> - 临时文件存放处</li>
-</ul>
-<h3 id="命令行">命令行</h3>
-<h4 id="通过-homebrew-安装">通过 <a href="https://brew.sh/">homebrew</a> 安装</h4>
-<ul>
-<li><a href="https://github.com/wting/autojump"><strong>autojump</strong></a>，目录跳转</li>
-<li><a href="https://github.com/ggreer/the_silver_searcher"><strong>the_silver_searcher</strong></a>，文件搜索，命令行是 ag</li>
-<li><a href="https://hub.github.com/"><strong>hub</strong></a> - git 扩展</li>
-<li><a href="https://github.com/jonas/tig"><strong>tig</strong></a> - git 扩展</li>
-<li><a href="https://github.com/sharkdp/bat"><strong>bat</strong></a>，带行号的 cat，可以配 <code>alias cat=&quot;bat&quot;</code></li>
-<li><a href="https://github.com/sharkdp/fd"><strong>fd</strong></a>，比系统自带的 find 友好</li>
-</ul>
-<h4 id="通过-yarn-global-add-安装">通过 <code>yarn global add</code> 安装</h4>
-<ul>
-<li><a href="https://github.com/popomore/projj"><strong>projj</strong></a>，github/gitlab 项目管理</li>
-<li><a href="https://github.com/zeit/serve"><strong>serve</strong></a>，本地静态服务器</li>
-<li><a href="https://github.com/sindresorhus/fkill"><strong>fkill</strong></a>，比 kill 好用的进程 killer</li>
-<li><a href="https://github.com/gtanner/qrcode-terminal"><strong>qrcode-terminal</strong></a>，二维码生成</li>
-</ul>
-<h3 id="chrome-插件">Chrome 插件</h3>
-<h4 id="github-相关">Github 相关</h4>
-<ul>
-<li><a href="https://github.com/OctoLinker/browser-extension"><strong>OctoLinker</strong></a>，根据 require/import 或 package.json 中的 dependencies 进行快速跳转</li>
-<li><a href="https://github.com/sindresorhus/refined-github"><strong>Refined Github</strong></a>，Github 改进</li>
-<li><a href="https://github.com/npmhub/npmhub"><strong>npmhub</strong></a>，在 README 下方显示 npm 依赖信息</li>
-<li><a href="https://github.com/sindresorhus/hide-files-on-github"><strong>Hide Files on GitHub</strong></a>，隐藏配置文件等非必要文件</li>
-<li><a href="https://github.com/Justineo/github-hovercard"><strong>Github Hovercard</strong></a>，比如不用点进去就能看到 issue 详情</li>
-<li><a href="https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf"><strong>Git History Browser Extension</strong></a>，可视化的方式显示文件修改历史</li>
-<li><a href="https://chrome.google.com/webstore/detail/file-icon-for-github-gitl/ficfmibkjjnpogdcfhfokmihanoldbfe"><strong>File Icon for GitHub, GitLab and Bitbucket</strong></a>，更好看的文件 icon</li>
-<li><a href="https://github.com/ovity/octotree"><strong>octotree</strong></a>，显示文件树形目录</li>
-</ul>
-<h4 id="其他-2">其他</h4>
-<ul>
-<li><a href="https://workona.com/"><strong>Workona</strong></a>，tab 管理，基于使用场景</li>
-<li><a href="https://github.com/callumlocke/json-formatter"><strong>JSON Formatter</strong></a>，让 JSON 更易读</li>
-<li><a href="https://chrome.google.com/webstore/detail/chrome-better-history/aadbaagbanfijdnflkhepgjmhlpppbad?hl=en"><strong>Better History</strong></a>，搜索历史记录用</li>
-<li><a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo"><strong>Tampermonkey</strong></a>，油猴，通过脚本定制网页</li>
-<li><a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm"><strong>uBlock Origin</strong></a>，广告 Block</li>
-<li><a href="https://chrome.google.com/webstore/detail/imdb-ratings-for-netflix/dnbpnlalaijjbogmjbpdkdcohoibjcmp/related?hl=en"><strong>Netflix Rating</strong></a>，在 netflix 上显示每个影片的 IMDB 的评分信息</li>
-<li><a href="https://chrome.google.com/webstore/detail/select-like-a-boss/mnbiiidkialopoakajjpeghipbpljffi/related?hl=en"><strong>Select like a boss</strong></a>，可以选择链接里的内容</li>
-<li><a href="https://chrome.google.com/webstore/detail/lingocloud-interpreter/jmpepeebcbihafjjadogphmbgiffiajh/related"><strong>Lingocloud Interpreter</strong></a>，全文翻译</li>
-<li><a href="https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk/related?hl=en"><strong>Video Speed Controller</strong></a>，在视频上显示按钮可控制播放速度</li>
-</ul>
-<h2 id="iphone-软件">iPhone 软件</h2>
-<h3 id="每天用">每天用</h3>
-<ul>
-<li><strong>支付宝</strong></li>
-<li><strong>微信</strong></li>
-<li><strong>Chrome</strong>，代替 Safari，好处是可以和电脑同步</li>
-<li><strong>Gmail</strong></li>
-<li><strong>Reeder</strong>，我是 RSS 重度用户</li>
-<li><strong>钉钉</strong>，工作交流</li>
-<li><strong>Shadowrocket</strong>，你懂的，需切换美区安装</li>
-<li><strong>Twitter</strong>，感觉官方客户端够用了</li>
-<li><strong>Workflow</strong>，最常用的一个 workflow 是 clipboard to instapaper，用于把微信文章经由 instapaper 保存到 github issue</li>
-<li><strong>网易云音乐</strong></li>
-<li><strong>OmniFocus</strong>，任务管理</li>
-</ul>
-<p>更多 https://github.com/sorrycc/ama/issues/12</p>
-<h2 id="在线服务">在线服务</h2>
-<h4 id="免费">免费</h4>
-<ul>
-<li><a href="http://refiddle.com/"><strong>refiddle</strong></a> + <a href="https://regex101.com/"><strong>regex101</strong></a>，调正则表达式</li>
-<li><a href="https://30secondsofcode.org/"><strong>30 seconds of code</strong></a>，代码片段</li>
-<li><a href="https://astexplorer.net/"><strong>astexplorer</strong></a>，调 ast</li>
-<li><a href="http://www.globtester.com/"><strong>globtester</strong></a>，调 glob</li>
-<li><a href="http://ghub.io/"><strong>ghub.io</strong></a>，redirect to an npm package's repository page</li>
-<li><a href="https://unpkg.com/"><strong>unpkg</strong></a>，npm 包的 cdn 服务，可以查看 npm 包发布后的内容</li>
-<li><a href="https://sketchboard.me/"><strong>sketchboard</strong></a> + <a href="https://www.draw.io/"><strong>draw.io</strong></a> + <a href="https://www.mindmeister.com/"><strong>MindMeister</strong></a>，在线画流程图</li>
-<li><a href="https://hackmd.io/recent"><strong>HackMD</strong></a>，在线笔记，有 PPT 展示功能</li>
-<li><a href="https://slides.com/"><strong>Slides</strong></a>，PPT 制作</li>
-<li><a href="https://codesandbox.io/"><strong>CodeSandbox</strong></a> + <a href="https://glitch.com/"><strong>glitch</strong></a> + <a href="https://repl.it/"><strong>repl.it</strong></a>，在线代码编辑，前者支持 sandbox container，可以跑 npm scripts</li>
-<li><a href="https://node.green/"><strong>node.green</strong></a>，查询 NodeJS 的 ES2018 特性支持情况</li>
-<li><a href="https://caniuse.com/"><strong>Can I use</strong></a>，查询浏览器的特性支持情况</li>
-<li><a href="https://carbon.now.sh/"><strong>carbon</strong></a>，根据源码生成图片</li>
-<li><a href="https://tellmewhenitcloses.com"><strong>Tell me when it closes</strong></a>，github issue 关闭时发送邮件通知</li>
-<li><a href="https://diff.intrinsic.com/"><strong>Package Diff</strong></a>，比较 npm 包两个版本直接的区别</li>
-<li><a href="https://send.firefox.com/"><strong>Firefox Send</strong></a> + <a href="https://github.com/timvisee/ffsend"><strong>ffsend</strong></a>，文件分享服务</li>
-<li><a href="https://cloudconvert.com/"><strong>Cloud Convert</strong></a>，支持 218 种格式相互转换</li>
-<li>（beta）<a href="https://webpack.jakoblind.no/"><strong>Webpack config tool</strong></a>，webpack 配置工具</li>
-</ul>
-<h4 id="付费">付费</h4>
-<ul>
-<li><a href="https://www.safaribooksonline.com/"><strong>Oreilly Safari Books</strong></a>，Oreilly 图书、视频教程、newsletter 等，看地比较少，到期了不准备续费了</li>
-<li><a href="https://frontendmasters.com/"><strong>Frontend Masters</strong></a>，视频教程</li>
-<li><a href="https://zeit.co/now"><strong>Zeit Now</strong></a>，serverless 服务，域名等</li>
-<li><a href="https://www.name.com/"><strong>name.com</strong></a>，域名服务，之后会转到 Zeit Now 上</li>
-<li><a href="https://sspai.com/series/70"><strong>少数派 Power+ 2.0</strong></a>，提效相关文章</li>
-<li><a href="https://music.163.com/"><strong>网易云音乐</strong></a></li>
-<li><strong>百度云盘</strong> + <strong>115 网盘</strong> + <a href="https://www.maiguopan.com/"><strong>麦果网盘中转</strong></a>，资料下载</li>
-<li><strong>爱奇艺</strong> + <strong>腾讯视频</strong> + <strong>优酷</strong>，会员去广告</li>
-<li><a href="https://www.netflix.com"><strong>Netflix</strong></a></li>
-<li><a href="https://www.youtube.com/"><strong>Youtube Premium</strong></a>，主要为了 iPhone 上切换应用或锁屏后能继续播放</li>
-</ul>
-<h2 id="硬件">硬件</h2>
-<h4 id="电脑">电脑</h4>
-<ul>
-<li><strong>MacBook Pro 15-inch, Mid 2015</strong>，公司配的，256 G 不太够用，自己买了个 <a href="https://www.sandisk.co.uk/home/usb-flash/ultra-fit-usb"><strong>SDCZ43 128G U 盘</strong></a> 一直插着做扩展</li>
-<li><a href="https://detail.tmall.com/item.htm?id=543437409299&amp;skuId=3434337259021"><strong>神舟战神 Z7-KP7S1</strong></a>，可以玩一些要求不太高的 PC 游戏</li>
-</ul>
-<h4 id="电脑配件">电脑配件</h4>
-<p>显示器、键盘、鼠标都 x2，保证公司和家里的体验一致。</p>
-<ul>
-<li><a href="https://detail.tmall.com/item.htm?id=523282229383"><strong>U28E590D</strong></a>x2，三星显示器，应该是 4K 中最便宜的了</li>
-<li>(<strong>HHKB Pro 2 无刻</strong> + <a href="https://item.taobao.com/item.htm?id=522721338431&amp;_u=41h6urte838">彩色键帽</a>)x2</li>
-<li><a href="http://www.razerzone.com/store/razer-deathadder-chroma"><strong>Razer DeathAdder Chroma</strong></a>x2</li>
-</ul>
-<h4 id="家庭网络">家庭网络</h4>
-<ul>
-<li>J1900 软路由 + UBNT 交换机 + （UBNT AP &amp; <a href="https://item.jd.com/2104499.html"><strong>华硕 RT-AC88U</strong></a>）</li>
-</ul>
-<h4 id="手机">手机</h4>
-<ul>
-<li><a href="https://www.apple.com/iphone-x/"><strong>iPhoneX</strong></a></li>
-</ul>
-<h4 id="耳机">耳机</h4>
-<ul>
-<li><a href="https://www.bose.com/en_us/products/headphones/earphones/quietcontrol-30.html"><strong>Bose QC30</strong></a>，公司环境有点吵，降噪耳机必备</li>
-</ul>
-<h4 id="相机">相机</h4>
-<ul>
-<li><a href="https://www.fujifilmusa.com/products/digital_cameras/x/fujifilm_x100t/"><strong>FUJIFILM X100T</strong></a></li>
-<li><a href="https://zh.shop.gopro.com/China/cameras/hero7-black/CHDHX-701-master.html"><strong>GoPro Hero7 Black</strong></a></li>
-</ul>
-<h2 id="相关">相关</h2>
-<ul>
-<li><a href="https://github.com/sorrycc/awesome-f2e-libs">awesome-f2e-libs</a> - 我关注的前端库。</li>
-<li><a href="https://github.com/sorrycc/blog/issues/16">旧版本的装了啥</a></li>
-</ul>
 ]]></summary>
         <content type="html"><![CDATA[<h1 id="awesome-tools">awesome-tools</h1>
 <blockquote>
@@ -245,6 +84,7 @@
 <li>电视上看 youtube 和 netflix 可以用 <a href="https://www.nvidia.com/en-us/shield/"><strong>Nvidia Shield TV</strong></a>，我买的美版，据说国版也可刷原生系统</li>
 </ul>
 <h2 id="mac-软件">Mac 软件</h2>
+ <!-- more --> 
 <p>用了 <a href="https://go.setapp.com/invite/sorrycc">SetApp</a>，包含以下的不少应用，能省不少。</p>
 <h3 id="编辑器和-terminal">编辑器和 Terminal</h3>
 <p>主 <a href="https://www.jetbrains.com/idea/"><strong>Intellij Idea</strong></a>，辅 <a href="https://code.visualstudio.com/"><strong>VSCode</strong></a> 和 <strong>Vim</strong>。选 Intellij Idea 的原因是无需安装插件就很好用，另外也是没有时间去折腾插件。</p>
