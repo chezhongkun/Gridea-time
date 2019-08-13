@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akuntime.cn/</id>
     <title>无心木偶</title>
-    <updated>2019-08-13T07:04:38.730Z</updated>
+    <updated>2019-08-13T07:05:15.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://akuntime.cn/"/>
     <link rel="self" href="https://akuntime.cn//atom.xml"/>
-    <subtitle>生命不息折腾不止
-个人网盘akuntime.xyz</subtitle>
+    <subtitle>生命不息折腾不止&lt;/br&gt;
+个人网盘pan.sfonsenwx.com</subtitle>
     <logo>https://akuntime.cn//images/avatar.png</logo>
     <icon>https://akuntime.cn//favicon.ico</icon>
     <rights>All rights reserved 2019, 无心木偶</rights>
