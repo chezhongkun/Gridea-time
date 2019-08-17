@@ -1,0 +1,908 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>一份简明的 Markdown 笔记与教程 | 无心木偶</title>
+<link rel="shortcut icon" href="https://akuntime.cn//favicon.ico?v=1566008320735">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://akuntime.cn//styles/main.css">
+
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144545900-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144545900-1');
+</script>
+
+
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://akuntime.cn/">
+  <img class="avatar" src="https://akuntime.cn//images/avatar.png?v=1566008320735" alt="">
+  </a>
+  <h1 class="site-title">
+    无心木偶
+  </h1>
+  <p class="site-description">
+    生命不息折腾不止</br>
+个人网盘pan.sfonsenwx.com
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于
+        </a>
+      
+    
+      
+        <a href="/mei" class="menu">
+          每日一练
+        </a>
+      
+    
+      
+        <a href="/design" class="menu">
+          设计
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+        <a href="https://github.com/chezhongkun" target="_blank">
+          <i class="fab fa-github"></i>
+        </a>
+      
+    
+      
+        <a href="https://twitter.com/akun1024" target="_blank">
+          <i class="fab fa-twitter"></i>
+        </a>
+      
+    
+      
+        <a href="https://www.weibo.com/2372599220/profile?rightmod=1&amp;wvr=6&amp;mod=personinfo" target="_blank">
+          <i class="fab fa-weibo"></i>
+        </a>
+      
+    
+      
+    
+      
+        <a href="https://www.facebook.com/profile.php?id=100025259706607&amp;ref=bookmarks" target="_blank">
+          <i class="fab fa-facebook"></i>
+        </a>
+      
+    
+  </div>
+</div>
+
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              一份简明的 Markdown 笔记与教程
+            </h2>
+            <div class="post-info">
+              <time class="post-time">
+                · 2019-08-15 ·
+              </time>
+              
+            </div>
+            
+            <div class="post-content">
+              <p>为部门内知识分享准备的素材，记录了 Markdown 的优点、应用场景和编辑工具，介绍了标准语法与扩展语法，以及一些应用 Markdown 的奇技淫巧。个人使用 Markdown 的经验持续补充中，最新完整版请参见</p>
+<p><a href="https://github.com/mzlogin/markdown-intro">https://github.com/mzlogin/markdown-intro</a></p>
+<hr>
+<p>自从 2014 年左右接触到 Markdown 以来，对它的使用就一发而不可收拾。从最开始使用它在 GitHub Pages 里写博客，到用它编辑项目的 README 文件，再到撰写开发文档，编辑微信公众号文章和邮件内容等等，这期间也见证了它在各类平台和网站上的普及和被原生支持，可以说，Markdown 如今已经渗透了我在技术和网络活动的方方面面，成为了我撰写文本文档的首选。</p>
+<p>那么首先我们一起来看一下它的「定义」：</p>
+<blockquote>
+<p>Markdown 是一种轻量级标记语言，创始人为 John Gruber。它允许人们「使用易读易写的纯文本格式编写文档，然后转换成有效的 XHTML（或者 HTML）文档」。——维基百科</p>
+</blockquote>
+ <!-- more -->
+<p>本文档的目的不在于面面俱到地介绍 Markdown，只是作为我对其理解的笔记整理，希望能同时帮助一些对 Markdown 感兴趣的人快速上手，或是作为一个工具，供对其已经有所了解的人在需要时参考。</p>
+<p>接下来请随我一起深入了解这门并不神秘的实用标记语言。</p>
+<p><strong>目录</strong></p>
+<ul>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E8%83%8C%E6%99%AF">背景</a>
+<ul>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E4%BC%98%E7%82%B9">优点</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF">使用场景</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7">编辑工具</a></li>
+</ul>
+</li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E8%AF%AD%E6%B3%95">语法</a>
+<ul>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E6%A0%87%E9%A2%98">标题</a></li>
+</ul>
+</li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#atx-style-%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98">atx-style 一级标题</a>
+<ul>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%98">二级标题</a>
+<ul>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E5%85%AD%E7%BA%A7%E6%A0%87%E9%A2%98">六级标题</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#setext-style-%E4%B8%80%E7%BA%A7%E6%A0%87%E9%A2%98">Setext-style 一级标题</a>
+<ul>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E4%BA%8C%E7%BA%A7%E6%A0%87%E9%A2%98-1">二级标题</a>
+<ul>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E6%AE%B5%E8%90%BD">段落</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E8%A1%8C%E5%86%85%E6%A0%BC%E5%BC%8F">行内格式</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E5%BC%95%E7%94%A8%E5%9D%97">引用块</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E5%BC%95%E7%94%A8%E5%9D%97%E5%86%85%E7%9A%84%E6%A0%87%E9%A2%98">引用块内的标题</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E8%B6%85%E9%93%BE%E6%8E%A5">超链接</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E5%9B%BE%E7%89%87">图片</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E5%88%97%E8%A1%A8">列表</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E4%BB%A3%E7%A0%81%E5%9D%97">代码块</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E6%B0%B4%E5%B9%B3%E5%88%86%E5%89%B2%E7%BA%BF">水平分割线</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E5%B5%8C%E5%85%A5-html">嵌入 HTML</a></li>
+</ul>
+</li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E6%89%A9%E5%B1%95%E8%AF%AD%E6%B3%95">扩展语法</a>
+<ul>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E8%A1%A8%E6%A0%BC">表格</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E4%BB%BB%E5%8A%A1%E5%88%97%E8%A1%A8">任务列表</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E5%88%A0%E9%99%A4%E7%BA%BF">删除线</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E8%87%AA%E5%8A%A8%E9%93%BE%E6%8E%A5">自动链接</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#emoji">emoji</a></li>
+</ul>
+</li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7">奇技淫巧</a>
+<ul>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E7%94%BB%E6%B5%81%E7%A8%8B%E5%9B%BE%E5%92%8C%E6%97%B6%E5%BA%8F%E5%9B%BE">画流程图和时序图</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E6%8F%92%E5%85%A5%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F">插入数学公式</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E7%94%A8-markdown-%E5%81%9A-ppt">用 Markdown 做 PPT</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E7%94%A8-markdown-%E5%86%99%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7">用 Markdown 写微信公众号</a></li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E6%9B%B4%E5%A4%9A">更多</a></li>
+</ul>
+</li>
+<li><a href="https://mazhuang.org/2018/09/06/markdown-intro/#%E5%8F%82%E8%80%83">参考</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="背景">背景</h2>
+<h3 id="优点">优点</h3>
+<ol>
+<li>
+<p>专注于文字内容；</p>
+</li>
+<li>
+<p>纯文本，易读易写，可以方便地纳入版本控制；</p>
+</li>
+<li>
+<p>语法简单，没有什么学习成本，能轻松在码字的同时做出美观大方的排版。</p>
+</li>
+</ol>
+<h3 id="使用场景">使用场景</h3>
+<ul>
+<li>
+<p>各类代码托管平台</p>
+<p>主流的代码托管平台，如 GitHub、GitLab、BitBucket、Coding、Gitee 等等，都支持 Markdown 语法，很多开源项目的 README、开发文档、帮助文档、Wiki 等都用 Markdown 写作。</p>
+</li>
+<li>
+<p>技术社区和写作平台</p>
+<p>StackOverflow、CSDN、掘金、简书、GitBook、有道云笔记</p>
+</li>
+<li>
+<p>论坛</p>
+<p>V2EX、光谷社区</p>
+</li>
+</ul>
+<p>个人感觉比较遗憾的一点是各平台可能采用不同语言实现的 Markdown 解析引擎，或采用同一解析引擎的不同版本，而且可能有不同程度的定制与扩展，这导致在不同平台上使用 Markdown 写作时体验并不完全一致。不过幸好对于大家公认的一些标准语法，各家都是支持的。</p>
+<h3 id="编辑工具">编辑工具</h3>
+<p>理论上任何一款文本编辑器都能用于编辑 Markdown 文档，它们分别提供了不同程度的语法高亮、预览等功能，以下只是列举其中一部分，选择自己称手的即可。</p>
+<ul>
+<li>
+<p>现代编辑器</p>
+<p>VSCode / Atom</p>
+</li>
+<li>
+<p>传统编辑器</p>
+<p>Vim / Emacs / Sublime Text / Notepad++</p>
+</li>
+<li>
+<p>IDE 自带编辑器</p>
+<p>IntelliJ IDEA / Android Studio / WebStorm</p>
+</li>
+<li>
+<p>专用编辑器</p>
+<p>Ulysses / Mou / Typora / Markpad</p>
+</li>
+<li>
+<p>在线编辑器</p>
+<p>各种支持 Markdown 的网站都提供了在线编辑器</p>
+</li>
+</ul>
+<h2 id="语法">语法</h2>
+<h3 id="标题">标题</h3>
+<p><strong>Markdown：</strong></p>
+<pre><code># atx-style 一级标题
+
+## 二级标题
+
+###### 六级标题
+
+Setext-style 一级标题
+===
+
+二级标题
+---
+
+</code></pre>
+<p><strong>预览效果：</strong></p>
+<blockquote>
+<h1 id="atx-style-一级标题">atx-style 一级标题</h1>
+<h2 id="二级标题">二级标题</h2>
+<h6 id="六级标题">六级标题</h6>
+<h1 id="setext-style-一级标题">Setext-style 一级标题</h1>
+<h2 id="二级标题-2">二级标题</h2>
+</blockquote>
+<p><strong>对应 HTML：</strong></p>
+<pre><code>&lt;h1&gt;atx-style 一级标题&lt;/h1&gt;
+
+&lt;h2&gt;二级标题&lt;/h2&gt;
+
+&lt;h6&gt;六级标题&lt;/h6&gt;
+
+&lt;h1&gt;Setext-style 一级标题&lt;/h1&gt;
+
+&lt;h2&gt;二级标题&lt;/h2&gt;
+
+</code></pre>
+<h3 id="段落">段落</h3>
+<p>中间没有空行的连续不断的几行文字被视为一个段落。</p>
+<p><strong>Markdown：</strong></p>
+<pre><code>白日依山尽，
+
+黄河入海流。
+（句号后面没空格）
+
+欲穷千里目，
+
+更上一层楼。  
+（句号后面有俩空格）
+
+</code></pre>
+<p><strong>预览效果：</strong></p>
+<p>白日依山尽，</p>
+<p>黄河入海流。 （句号后面没空格）</p>
+<p>欲穷千里目，</p>
+<p>更上一层楼。<br>
+（句号后面有俩空格）</p>
+<p><strong>对应 HTML：</strong></p>
+<pre><code>&lt;p&gt;白日依山尽，&lt;/p&gt;
+
+&lt;p&gt;黄河入海流。
+（句号后面没有空格）&lt;/p&gt;
+
+&lt;p&gt;欲穷千里目，&lt;/p&gt;
+
+&lt;p&gt;
+  更上一层楼。
+  &lt;br&gt;
+  （句号后面有俩空格）
+&lt;/p&gt;
+
+</code></pre>
+<h3 id="行内格式">行内格式</h3>
+<p>对段落或者部分文本的强调效果。</p>
+<p><strong>Markdown：</strong></p>
+<pre><code>后面俩字**加黑**
+
+后面俩字*斜体*
+
+</code></pre>
+<p><strong>预览效果：</strong></p>
+<p>后面俩字<strong>加黑</strong></p>
+<p>后面俩字<em>斜体</em></p>
+<p><strong>对应 HTML：</strong></p>
+<pre><code>&lt;p&gt;
+  后面俩字
+  &lt;strong&gt;加黑&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+  后面俩字
+  &lt;em&gt;斜体&lt;/em&gt;
+&lt;/p&gt;
+
+</code></pre>
+<h3 id="引用块">引用块</h3>
+<p><strong>Markdown：</strong></p>
+<pre><code>&gt; 引用块段落一。
+&gt;
+&gt; 引用块段落二。
+&gt;&gt; 内嵌引用块段落一。
+&gt;
+&gt; ### 引用块内的标题
+
+</code></pre>
+<p><strong>预览效果：</strong></p>
+<blockquote>
+<p>引用块段落一。</p>
+<p>引用块段落二。</p>
+<blockquote>
+<p>内嵌引用块段落一。</p>
+</blockquote>
+<h3 id="引用块内的标题">引用块内的标题</h3>
+</blockquote>
+<p><strong>对应 HTML：</strong></p>
+<pre><code>&lt;blockquote&gt;
+  &lt;p&gt;引用块段落一。&lt;/p&gt;
+  &lt;p&gt;引用块段落二。&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;内嵌引用块段落一。&lt;/p&gt;
+  &lt;/blockquote&gt;
+  &lt;h3 id=&quot;引用块内的标题&quot;&gt;引用块内的标题&lt;/h3&gt;
+&lt;/blockquote&gt;
+
+</code></pre>
+<h3 id="超链接">超链接</h3>
+<p>Markdown 支持行内式链接和引用式链接。</p>
+<p><strong>Markdown：</strong></p>
+<pre><code>行内式 [博客](https://mazhuang.org &quot;我的个人博客&quot;) 链接，带 title。
+
+行内式 [GitHub](https://github.com/mzlogin) 链接。
+
+引用式 [博客][1] 链接。
+
+引用式 [GitHub][2] 链接，带 title。
+
+[1]: https://mazhuang.org
+[2]: https://github.com/mzlogin &quot;我的 GitHub 主页&quot;
+
+</code></pre>
+<p><strong>预览效果：</strong></p>
+<p>行内式 <a href="https://mazhuang.org/" title="我的个人博客">博客</a> 链接，带 title。</p>
+<p>行内式 <a href="https://github.com/mzlogin">GitHub</a> 链接。</p>
+<p>引用式 <a href="https://mazhuang.org/">博客</a> 链接。</p>
+<p>引用式 <a href="https://github.com/mzlogin" title="我的 GitHub 主页">GitHub</a> 链接，带 title。</p>
+<p><strong>对应 HTML：</strong></p>
+<pre><code>&lt;p&gt;行内式 &lt;a href=&quot;https://mazhuang.org&quot; title=&quot;我的个人博客&quot;&gt;博客&lt;/a&gt; 链接，带 title。&lt;/p&gt;
+
+&lt;p&gt;行内式 &lt;a href=&quot;https://github.com/mzlogin&quot;&gt;GitHub&lt;/a&gt; 链接。&lt;/p&gt;
+
+&lt;p&gt;引用式 &lt;a href=&quot;https://mazhuang.org&quot;&gt;博客&lt;/a&gt; 链接。&lt;/p&gt;
+
+&lt;p&gt;引用式 &lt;a href=&quot;https://github.com/mzlogin&quot; title=&quot;我的 GitHub 主页&quot;&gt;GitHub&lt;/a&gt; 链接，带 title。&lt;/p&gt;
+
+</code></pre>
+<h3 id="图片">图片</h3>
+<p>在超链接的写法前加一个 <code>!</code>，就是引用图片的方法。</p>
+<p><strong>Markdown：</strong></p>
+<pre><code>![Alt text](https://mazhuang.org/favicon.ico &quot;favicon&quot;)
+
+</code></pre>
+<p><strong>预览效果：</strong></p>
+<p><img src="https://mazhuang.org/favicon.ico" alt="Alt text" title="favicon"></p>
+<p><strong>对应 HTML：</strong></p>
+<pre><code>&lt;img src=&quot;https://mazhuang.org/favicon.ico&quot; alt=&quot;Alt text&quot; title=&quot;favicon&quot;&gt;
+
+</code></pre>
+<h3 id="列表">列表</h3>
+<p>包括有序列表和无序列表。</p>
+<p><strong>Markdown：</strong></p>
+<pre><code>- 苹果
+- 葡萄
+- 榴莲
+
+1\. 苹果
+2\. 葡萄
+3\. 榴莲
+
+</code></pre>
+<p><strong>预览效果：</strong></p>
+<ul>
+<li>苹果</li>
+<li>葡萄</li>
+<li>榴莲</li>
+</ul>
+<ol>
+<li>苹果</li>
+<li>葡萄</li>
+<li>榴莲</li>
+</ol>
+<p><strong>对应 HTML：</strong></p>
+<pre><code>&lt;ul&gt;
+  &lt;li&gt;苹果&lt;/li&gt;
+  &lt;li&gt;葡萄&lt;/li&gt;
+  &lt;li&gt;榴莲&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+  &lt;li&gt;苹果&lt;/li&gt;
+  &lt;li&gt;葡萄&lt;/li&gt;
+  &lt;li&gt;榴莲&lt;/li&gt;
+&lt;/ol&gt;
+
+</code></pre>
+<p>其中无序列表的标记可以使用 <code>+</code>、<code>-</code> 或 <code>*</code>，有序列表前的数字可以是乱序的。</p>
+<h3 id="代码块">代码块</h3>
+<p>支持行内代码和代码块。</p>
+<p><strong>Markdown：</strong></p>
+<pre><code>Android 里使用 `TextUtils` 类的 `isEmpty` 方法来判断字符串是否为空。
+
+```java
+if (TextUtils.isEmpty(text)) {
+    return null;
+}
+</code></pre>
+<pre><code>
+
+
+
+
+**预览效果：**
+
+Android 里使用 `TextUtils` 类的 `isEmpty` 方法来判断字符串是否为空。
+
+
+
+
+
+</code></pre>
+<p>if (TextUtils.isEmpty(text)) {<br>
+return null;<br>
+}</p>
+<pre><code>
+
+
+
+
+**对应 HTML：**
+
+
+
+
+
+</code></pre>
+<p>Android 里使用 <code>TextUtils</code> 类的 <code>isEmpty</code> 方法来判断字符串是否为空。</p>
+<div class="highlight highlight-source-java"><pre><span class="pl-k">if</span> (<span class="pl-smi">TextUtils</span><span class="pl-k">.</span>isEmpty(text)) {
+    <span class="pl-k">return</span> <span class="pl-c1">null</span>;
+}</pre></div>
+<pre><code>
+
+
+
+
+上例中的语言标记 `java` 可选填，可用于在编辑器和渲染后的效果里添加语法高亮。
+
+块式代码也可以对整个代码段缩进四个空格，或一个 Tab 来实现。
+
+### 水平分割线
+
+使用一个单独行里的三个或以上 `*`、`-` 来生产一条水平分割线，它们之间可以有空格。
+
+**Markdown：**
+
+
+
+
+
+</code></pre>
+<hr>
+<hr>
+<hr>
+<pre><code>
+
+
+
+
+**预览效果：**
+
+* * *
+
+* * *
+
+* * *
+
+**对应 HTML：**
+
+
+
+
+
+</code></pre>
+<hr />
+<hr />
+<hr />
+<pre><code>
+
+
+
+
+### 嵌入 HTML
+
+Markdown 标记语言的目的不是替代 HTML，也不是发明一种更便捷的插入 HTML 标签的方式。它对应的只是 HTML 标签的一个很小的子集。
+
+对于那些没有办法用 Markdown 语法来对应的 HTML 标签，直接使用 HTML 来写就好了。
+
+## 扩展语法
+
+本节的内容是介绍一些受到广泛支持的 Markdown 扩展语法。
+
+### 表格
+
+**Markdown：**
+
+
+
+
+
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th style="text-align:left">姓名（左）</th>
+<th style="text-align:right">年龄（右）</th>
+<th style="text-align:center">性别（中）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td style="text-align:left">张三</td>
+<td style="text-align:right">28</td>
+<td style="text-align:center">男</td>
+</tr>
+<tr>
+<td>1</td>
+<td style="text-align:left">李四</td>
+<td style="text-align:right">29</td>
+<td style="text-align:center">男</td>
+</tr>
+</tbody>
+</table>
+<pre><code>
+
+
+
+
+**预览效果：**
+
+| 编号 | 姓名（左） | 年龄（右） | 性别（中） |
+| --- | :-- | --: | :-: |
+| 0 | 张三 | 28 | 男 |
+| 1 | 李四 | 29 | 男 |
+
+**对应 HTML：**
+
+
+
+
+
+</code></pre>
+<table>
+  <thead>
+    <tr>
+      <th>编号</th>
+      <th align="left">姓名（左）</th>
+      <th align="right">年龄（右）</th>
+      <th align="center">性别（中）</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td align="left">张三</td>
+      <td align="right">28</td>
+      <td align="center">男</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td align="left">李四</td>
+      <td align="right">29</td>
+      <td align="center">男</td>
+    </tr>
+  </tbody>
+</table>
+<pre><code>
+
+
+
+
+### 任务列表
+
+在 GitHub / GitLab 里有较好的支持。
+
+**Markdown：**
+
+
+
+
+
+</code></pre>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3348801"><label class="task-list-item-label" for="task-item-3348801"> 洗碗</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9192681"><label class="task-list-item-label" for="task-item-9192681"> 清洗油烟机</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8694005"><label class="task-list-item-label" for="task-item-8694005"> 拖地</label></li>
+</ul>
+<pre><code>
+
+
+
+
+**预览效果：**
+
+* [x] 洗碗
+* [ ] 清洗油烟机
+* [ ] 拖地
+
+**对应 HTML：**
+
+
+
+
+
+</code></pre>
+<ul class="contains-task-list">
+  <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> 洗碗</li>
+  <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> 清洗油烟机</li>
+  <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox"> 拖地</li>
+</ul>
+<pre><code>
+
+
+
+
+如果是在 GitHub / GitLab 的 Issue 里，会附赠任务完成比例提示效果：
+
+![task list 1](https://raw.githubusercontent.com/mzlogin/markdown-intro/master/assets/task-list-1.png)
+
+还可以直接在网页上拖动调整顺序，勾选和取消勾选。
+
+![task list 2](https://raw.githubusercontent.com/mzlogin/markdown-intro/master/assets/task-list-2.png)
+
+### 删除线
+
+**Markdown：**
+
+
+
+
+
+</code></pre>
+<p>后面三个字打上<s>删除线</s>。</p>
+<pre><code>
+
+
+
+
+**预览效果：**
+
+后面三个字打上~~删除线~~。
+
+**对应 HTML：**
+
+
+
+
+
+</code></pre>
+<p>后面三个字打上<del>删除线</del>。</p>
+<pre><code>
+
+
+
+
+### 自动链接
+
+自动链接扩展，即：当识别到 URL，或用 `&lt;`、`&gt;` 包括的 URL 时，会自动为其生成 `a` 标签。
+
+**Markdown：**
+
+
+
+
+
+</code></pre>
+<p>https://github.com</p>
+<p><a href="mailto:example@gmail.com">example@gmail.com</a></p>
+<pre><code>
+
+
+
+
+**预览效果：**
+
+https://github.com
+
+[example@gmail.com](mailto:example@gmail.com)
+
+**对应 HTML：**
+
+
+
+
+
+</code></pre>
+<p><a href="https://github.com">https://github.com</a></p>
+<p><a href="mailto:example@gmail.com">example@gmail.com</a></p>
+<pre><code>
+
+
+
+
+### emoji
+
+以 GitHub Pages 为例。
+
+**Markdown：**
+
+
+
+
+
+</code></pre>
+<p>:camel: :blush: :smile:</p>
+<pre><code>
+
+
+
+
+**预览效果：**
+
+![:camel:](https://github.githubassets.com/images/icons/emoji/unicode/1f42b.png &quot;:camel:&quot;) ![:blush:](https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png &quot;:blush:&quot;) ![:smile:](https://github.githubassets.com/images/icons/emoji/unicode/1f604.png &quot;:smile:&quot;)
+
+**对应 HTML：**
+
+
+
+
+
+</code></pre>
+<p>
+  <img class="emoji" title=":camel:" alt=":camel:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f42b.png" height="20" width="20">
+  <img class="emoji" title=":blush:" alt=":blush:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60a.png" height="20" width="20">
+  <img class="emoji" title=":smile:" alt=":smile:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f604.png" height="20" width="20">
+</p>
+<pre><code>
+
+
+
+
+## 奇技淫巧
+
+脑洞清奇的工程师们还发掘了很多使用 Markdown 的方法，大部分都是引入第三方 JavaScript 插件来实现。对这部分我只做简述，对其中的部分功能比如作图等，还是推荐用专门的可视化工具去做。
+
+### 画流程图和时序图
+
+有部分网站和编辑器实现了对 Markdown 里流程图和时序图的支持，比如我们使用的项目管理工具 TAPD 的在线编辑器，还有 VSCode + 插件 Markdown Preview Enhanced 等。
+
+以我们使用的项目管理工具 TAPD 的在线编辑器为例：
+
+![流程图](https://raw.githubusercontent.com/mzlogin/markdown-intro/master/assets/tapd-markdown-flowchart.png)
+
+![时序图](https://raw.githubusercontent.com/mzlogin/markdown-intro/master/assets/tapd-markdown-seq.png)
+
+### 插入数学公式
+
+仍然以 TAPD 为例：
+
+![数学公式](https://raw.githubusercontent.com/mzlogin/markdown-intro/master/assets/tapd-markdown-math.png)
+
+应该是利用 JavaScript 支持了 LaTeX 公式语法。
+
+### 用 Markdown 做 PPT
+
+有专门的工具 [Marp](https://github.com/yhatt/marp)，另外使用 VSCode + 插件 Markdown Preview Enhanced 也可以实现。
+
+### 用 Markdown 写微信公众号
+
+可以将公众号素材用 Markdown 编辑好后，贴到在线排版工具以后，复制到公众号编辑器里即可。有多种页面主题和代码主题可选择。
+
+我维护的工具地址：[https://md.mazhuang.org](https://md.mazhuang.org/)
+
+![微信公众号](https://raw.githubusercontent.com/mzlogin/markdown-intro/master/assets/wechat-markdown.png)
+
+### 更多
+
+想象力丰富的工程师们还扩展了很多基于 Markdown 的玩法，包括但不限于：
+
+* 自动生成 / 更新 Table of Contents
+* 流程图 / 时序图
+* 制作幻灯片
+* 集成 PlantUML / GraphViz 的能力
+* 导出 HTML / PDF / 电子书
+* …
+
+以上功能基本都可以用 VSCode + 插件 Markdown Preview Enhanced 实现。
+
+另外可以参考我以前的一篇博客 [关于 Markdown 的一些奇技淫巧](https://mazhuang.org/2017/09/01/markdown-odd-skills/)。
+
+## 参考
+
+* [Markdown: Syntax - DARING FIREBALL](https://daringfireball.net/projects/markdown/syntax)
+* [Markdown - 维基百科](https://zh.wikipedia.org/wiki/Markdown)
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+* [关于 Markdown 的一些奇技淫巧](https://mazhuang.org/2017/09/01/markdown-odd-skills/)</code></pre>
+
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://akuntime.cn//post/zhong-wen-wen-an-pai-ban-zhi-bei">
+              <h3 class="post-title">
+                中文文案排版指北
+              </h3>
+            </a>
+          </div>
+        
+
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: '2f5aca6701e9148e8314',
+    clientSecret: '9872719cd936f77ef876714d00533109282e3b79',
+    repo: 'https://time.github.io',
+    owner: 'chezhongkun',
+    admin: ['chezhongkun'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://time.github.io" target="_blank">Time</a> | 
+  <a class="rss" href="https://akuntime.cn//atom.xml" target="_blank">RSS</a>
+</div>
+
+<script>
+  hljs.initHighlightingOnLoad()
+</script>
+
+      </div>
+    </div>
+  </body>
+</html>
