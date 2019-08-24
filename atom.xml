@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akuntime.cn/</id>
     <title>无心木偶</title>
-    <updated>2019-08-24T02:25:58.780Z</updated>
+    <updated>2019-08-24T02:27:26.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://akuntime.cn/"/>
     <link rel="self" href="https://akuntime.cn//atom.xml"/>
@@ -17,6 +17,16 @@
         <link href="https://akuntime.cn//post/mac-geng-gai-xi-tong-zi-ti-mac-10136-geng-gai-xi-tong-zi-ti-zhu-zi-rou-hei">
         </link>
         <updated>2019-08-24T02:25:42.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="mac-10136更改系统字体筑紫柔黑">Mac 10.13.6更改系统字体（筑紫柔黑）</h1>
+<blockquote>
+<p>先说几个问题和需要讨论的问题</p>
+</blockquote>
+<ol>
+<li>用的字体是『心雨』的『筑紫柔黑』字体</li>
+<li>在Mac系统上年中文没有问题全部适配</li>
+<li>在英文上没有显示，不知道是为什么调试了很就都不行，有没有知道为什么英文不行的。大神研究一下。<strong>字体里面是带有英文的</strong>『我实在是搞不明白了』</li>
+</ol>
+]]></summary>
         <content type="html"><![CDATA[<h1 id="mac-10136更改系统字体筑紫柔黑">Mac 10.13.6更改系统字体（筑紫柔黑）</h1>
 <blockquote>
 <p>先说几个问题和需要讨论的问题</p>
@@ -26,6 +36,7 @@
 <li>在Mac系统上年中文没有问题全部适配</li>
 <li>在英文上没有显示，不知道是为什么调试了很就都不行，有没有知道为什么英文不行的。大神研究一下。<strong>字体里面是带有英文的</strong>『我实在是搞不明白了』</li>
 </ol>
+<!-- more -->
 <h2 id="上图">上图<img src="https://i.loli.net/2019/08/24/tKAs9dBrSNWiTqR.png" alt="Snip20190824_1"></h2>
 <p><img src="https://i.loli.net/2019/08/24/lOanJe7LEtRBQjb.png" alt="Snip20190824_2"><br>
 <img src="https://i.loli.net/2019/08/24/lafPD5Oj3m6Ezio.png" alt="Snip20190824_3"><br>
@@ -39,147 +50,6 @@
 <h4 id="需要注意一定要备份好苹方原机自带字体">需要注意：一定要备份好『苹方』原机自带字体。</h4>
 <h4 id="问题英文没有显示大家谁有经验研究一下">问题：英文没有显示大家谁有经验研究一下</h4>
 <p>下载链接：https://pan.baidu.com/s/1UAY5X0QBny7ss1mLdd9puw  密码:x74i</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40 個設計師必備免費資源，超推懶人包！]]></title>
-        <id>https://akuntime.cn//post/40-ge-she-ji-shi-bi-bei-mian-fei-zi-yuan-chao-tui-lan-ren-bao</id>
-        <link href="https://akuntime.cn//post/40-ge-she-ji-shi-bi-bei-mian-fei-zi-yuan-chao-tui-lan-ren-bao">
-        </link>
-        <updated>2019-08-17T02:18:11.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixedenphoto-1424298397478-4bd87a6a0f0c.jpeg" alt="40 個設計師必備免費資源，超推懶人包！"></p>
-]]></summary>
-        <content type="html"><![CDATA[<p><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixedenphoto-1424298397478-4bd87a6a0f0c.jpeg" alt="40 個設計師必備免費資源，超推懶人包！"></p>
-<!-- more -->
-<p>你可曾想過，設計師們都從那裡獲得大量資源，以幫助他們完成手邊的專案呢？這裡有一份絕佳的<a href="https://free.com.tw/">免費資源</a>列表，包括網站、PSD 檔、UI 元件以及網頁模版等等的相關素材，最重要的是這些資源完全免費！並可自由下載使用。</p>
-<!-- more -->
-<p>只需要點選網站標題或擷圖，就會帶你到相對應的免費資源網站。</p>
-<p>把這篇文章加入書籤，你便可以隨時回頭來查看這份精采絕倫的免費資源列表，讓龐大的資源幫助你獲得成功。喜歡的話，也別忘記把這篇文章分享、轉貼給你的好友。</p>
-<h2 id="1-fribbble"><a href="http://fribbble.com/">1. Fribbble</a></h2>
-<p>Fribbble 提供網站適用圖示、一些 iPhone 模型及建立登錄頁面的 PSD 檔等資源。</p>
-<p><a href="http://fribbble.com/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden1-fribbble.jpg" alt="Fribbble"></a></p>
-<h2 id="2-behance-project-template"><a href="https://www.behance.net/gallery/15523305/Behance-Tips-for-a-successful-portfolio">2. Behance Project Template</a></h2>
-<p>許多人在發佈專案至 <a href="https://www.behance.net/">Behance</a> 網站時感到無所適從。該如何才能讓它看起來正確？首先，請先閱讀<a href="http://www.ferencpetho.com/blog/behance-full-bleed-portfolio-image/">這篇文章</a>（英文），然後下載漂亮的背景模版。</p>
-<p><a href="https://www.behance.net/gallery/15523305/Behance-Tips-for-a-successful-portfolio"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden2-behance.jpg" alt="Behance Project Template"></a></p>
-<h2 id="3-psdddco"><a href="http://psddd.co/">3. psddd.co</a></h2>
-<p>另一個獲取免費 PSD 檔的好網站，同時也提供背景模版和 UI 元件。</p>
-<p><a href="http://psddd.co/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden3-psd.jpg" alt="Psddd.co"></a></p>
-<h2 id="4-colour-lovers"><a href="http://www.colourlovers.com/palettes">4. Colour lovers</a></h2>
-<p>想獲得完美的色彩組合嗎？那麼我會去這個網站。獲得色彩靈感最最最最完美的方法。</p>
-<p><a href="http://www.colourlovers.com/palettes"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden4-colourlovers.jpg" alt="Colour lovers"></a></p>
-<h2 id="5-cg-textures"><a href="http://cgtextures.com/">5. CG textures</a></h2>
-<p>一個可以下載相片的免費圖庫。內容從石頭、天空到大自然，應有盡有。</p>
-<p><a href="http://cgtextures.com/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden5-cgtextures.jpg" alt="CG textures"></a></p>
-<h2 id="6-subtle-patterns"><a href="http://subtlepatterns.com/">6. Subtle Patterns</a></h2>
-<p>需要一些高畫質的圖樣嗎？不用再看了，Subtle Patterns 提供來自全世界超過 400 種的圖樣，供使用者免費下載。</p>
-<p><a href="http://subtlepatterns.com/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden6-subtlepattern.jpg" alt="Subtle Patterns"></a></p>
-<h2 id="7-webydo"><a href="http://www.webydo.com/">7. Webydo</a></h2>
-<p>讓你免費設計一個網站，無須學會程式碼。大喊一聲：哈雷路亞！</p>
-<p><a href="http://www.webydo.com/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden7-webydo.jpg" alt="Webydo"></a></p>
-<h2 id="8-guideguide"><a href="http://guideguide.me/">8. guideguide</a></h2>
-<p>網頁設計對每個人來說不見得是簡單的事，但這裡提供你簡單的方法！</p>
-<p><a href="http://guideguide.me/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden8-guide.jpg" alt="guideguide"></a></p>
-<h2 id="9-no-more-banding"><a href="http://nomorebanding.com/">9. No more banding</a></h2>
-<p>當使用 Photoshop 的漸層時，有沒有因為不夠圓滑而感到灰心。利用這個動作，讓它看起來更加平滑。</p>
-<p><a href="http://nomorebanding.com/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden9-banding.jpg" alt="No more banding"></a></p>
-<h2 id="10-gridzzly"><a href="http://gridzzly.com/">10. Gridzzly</a></h2>
-<p>讓你自製網格紙，並將它列印出來！對於要畫草圖來說非常方便。</p>
-<p><a href="http://gridzzly.com/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden10-grid.jpg" alt="Gridzzly"></a></p>
-<h2 id="11-make-app-icon"><a href="http://makeappicon.com/">11. Make app Icon</a></h2>
-<p>這個工具會自動為你的圖示設計重新調整大小，依照 iOS 和 Android 手機應用程式需要的格式進行最佳化。</p>
-<p>延伸閱讀：<a href="https://free.com.tw/makeappicon/">MakeAppicon 一鍵快速產生 iOS、Android 適用的應用程式圖示</a></p>
-<p><a href="http://makeappicon.com/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden11-app.jpg" alt="Make app Icon"></a></p>
-<h2 id="12-perfect-effects-3"><a href="http://www.ononesoftware.com/products/effects9free/">12. Perfect Effects 3</a></h2>
-<p>專為攝影師而設計。Perfect Effects 3 是一款直觀又強大的工具，可以很容易地為照片加入效果，一些在 Photoshop、Lightroom、Photoshop Elements 或 Aperture 需要費時才能做出來的效果，在 Perfect Effects 3 可以輕鬆辦到。</p>
-<p><a href="http://www.ononesoftware.com/products/effects9free/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden12-effects.jpg" alt="Perfect Effects 3"></a></p>
-<h2 id="13-cut-slice"><a href="http://www.cutandslice.me/">13. Cut &amp; Slice</a></h2>
-<p>使用 Cut &amp; Slice 可以在彈指間將圖片輸出成不同裝置適用的格式。</p>
-<p><a href="http://www.cutandslice.me/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden13-cutandslice.jpg" alt="Cut &amp; Slice"></a></p>
-<h2 id="14-layrs-control-2"><a href="http://madebyvadim.com/layrs/">14. Layrs Control 2</a></h2>
-<p>一款免費的 Photoshop 外掛，集合七種程式來簡化你繁瑣的工作。</p>
-<p><a href="http://madebyvadim.com/layrs/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden14-layrs.jpg" alt="Layrs Control 2"></a></p>
-<h2 id="15-hexy"><a href="http://missingpixels.io/plugins/hexy/">15. Hexy</a></h2>
-<p>每次選取圖層、高亮文字，開啟選色工具來抓取特定範圍的 Hex 值是否讓你感到痛苦。利用 Hexy 可讓你快速使用滴管工具，並將顏色複製到剪貼版。</p>
-<p><a href="http://missingpixels.io/plugins/hexy/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden15-hex.jpg" alt="Hexy"></a></p>
-<h2 id="16-whatthefont"><a href="https://www.myfonts.com/WhatTheFont/">16. WhatTheFont!</a></h2>
-<p>看到某個字型，想知道它的確切名稱嗎？把擷圖上傳到 WhatTheFont 就能從資料庫中找到最相近的結果。</p>
-<p>延伸閱讀：<a href="https://free.com.tw/fontface-ninja/">Fontface Ninja 一鍵查看網頁使用的字型名稱、大小和行高，快速下載字體檔案</a></p>
-<p><a href="https://www.myfonts.com/WhatTheFont/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden16-whatthefont.png" alt="WhatTheFont!"></a></p>
-<h2 id="17-typewolf"><a href="https://www.typewolf.com/">17. Typewolf</a></h2>
-<p>Typewolf 將各式網站使用的字型直接顯示出來，並有針對類似字型提供的個人建議。</p>
-<p><a href="https://www.typewolf.com/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden17-typefont.jpg" alt="Typewolf"></a></p>
-<h2 id="18-size-marks"><a href="https://github.com/romashamin/Size-Marks-PS#install">18. Size Marks</a></h2>
-<p>Size Marks 對網頁設計師或前端工程師來說是個很實用的 Photoshop 外掛。這個外掛能幫你標記出矩形選取框的間距。</p>
-<p><a href="https://github.com/romashamin/Size-Marks-PS#install"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden18-size-marks-show.gif" alt="Size Marks"></a></p>
-<h2 id="19-velositey-version-2"><a href="http://dandkagency.com/extensions/velositey-v2/">19. Velositey Version 2</a></h2>
-<p>Velositey 讓你在 Photoshop 內快速設計出一個網頁，並有多種模版和模組可選擇。</p>
-<p><a href="http://dandkagency.com/extensions/velositey-v2/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden19-velositey.jpg" alt="Velositey Version 2"></a></p>
-<h2 id="20-fontawesomeps"><a href="http://creativedo.co/FontAwesomePS">20. FontAwesomePS</a></h2>
-<p>搜尋圖示，然後點選建立新圖層形狀，並能夠輕鬆編輯。</p>
-<p><a href="http://creativedo.co/FontAwesomePS"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden20-fontawesome.jpg" alt="FontAwesomePS"></a></p>
-<h2 id="21-liveshare-ps"><a href="http://www.invisionapp.com/new-features/24/liveshare-ps-real-time-design-meetings-inside-photoshop">21. Liveshare PS</a></h2>
-<p>透過 LiveShare PS，你可以利用 LiveShare 會議來線上分享 Photoshop 文件給其它使用者，而且沒有人數限制。如果你想修改你的 Photoshop 檔案，他們也能立即在 LiveShare 裡看到變化——甚至不用按下儲存按鈕！</p>
-<p><a href="http://www.invisionapp.com/new-features/24/liveshare-ps-real-time-design-meetings-inside-photoshop"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden21-liveshare.jpg" alt="Liveshare PS"></a></p>
-<h2 id="22-photoshop-share-plugin"><a href="http://www.layerhero.com/photoshop-share-plugin/">22. Photoshop Share plugin</a></h2>
-<p>使用 Layer Hero’s Photoshop Share 外掛在 Photoshop 裡直接分享你的設計。</p>
-<p><a href="http://www.layerhero.com/photoshop-share-plugin/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden22-share.jpg" alt="Photoshop Share plugin"></a></p>
-<h2 id="23-prisma"><a href="http://www.codeadventure.com/prisma">23. Prisma</a></h2>
-<p>Illustrator 的選色器無法和 Photoshop 協調嗎？Prisma 將所有應用程式同步。</p>
-<p><a href="http://www.codeadventure.com/prisma"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden23-prisma.jpg" alt="Prisma"></a></p>
-<h2 id="24-free-lorem-ipsum-generator"><a href="http://www.layerhero.com/lorem-ipsum-generator/">24. Free Lorem Ipsum Generator</a></h2>
-<p>最佳的 Lorem Ipsum 測試文字產生器，針對 Photoshop、Illustrator、InDesign 和 Dreamweave 設計。</p>
-<p>延伸閱讀：<a href="https://free.com.tw/lorem-ipsum-generator/">12 個你應該知道的中英文假字、文章產生器（Lorem Ipsum）</a></p>
-<p><a href="http://www.layerhero.com/lorem-ipsum-generator/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden24-Free-Lorem-Ipsum-Generator.jpg" alt="Free Lorem Ipsum Generator"></a></p>
-<h2 id="25-free-behance-presentation-builder"><a href="https://www.behance.net/gallery/16522285/Free-Behance-Presentation-Builder">25. Free Behance Presentation Builder</a></h2>
-<p>幫你利用一個免費的 PSD 檔和 PS Action 來建立你的 Behance 個人資料簡報。</p>
-<p><a href="https://www.behance.net/gallery/16522285/Free-Behance-Presentation-Builder"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden25-behancebuilder.jpg" alt="Free Behance Presentation Builder"></a></p>
-<h2 id="26-kaku"><a href="http://kaku.ps/">26. Kaku</a></h2>
-<p>一個簡單的 Photoshop 外掛，幫你把你的文字圖層翻譯成其他語言。</p>
-<p><a href="http://kaku.ps/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden26-kaku.jpg" alt="Kaku"></a></p>
-<h2 id="27-instagram-filters"><a href="https://friabrisa.deviantart.com/art/Instagram-13-Filters-PS-Actions-359911622">27. Instagram Filters</a></h2>
-<p>為 Photoshop 加入 Instagram 的 13 種濾鏡效果。</p>
-<p><a href="https://friabrisa.deviantart.com/art/Instagram-13-Filters-PS-Actions-359911622"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden27-instagram.jpg" alt="Instagram Filters"></a></p>
-<h2 id="28-vsco-cam-effect-in-photoshop-tutorial"><a href="http://gomedia.us/zine/tutorials/easy-to-accomplish-vsco-cam-effect-in-photoshop/">28. VSCO Cam Effect in Photoshop Tutorial</a></h2>
-<p>透過 Photoshop 也可以使用 VSCO Cam 的濾鏡特效啦！</p>
-<p>延伸閱讀：<a href="https://free.com.tw/vscocam/">VSCOcam：精緻濾鏡與優雅介面，充滿底片風格的質感相機</a></p>
-<p><a href="http://gomedia.us/zine/tutorials/easy-to-accomplish-vsco-cam-effect-in-photoshop/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden28-vsco.jpg" alt="VSCO Cam Effect in Photoshop Tutorial"></a></p>
-<h2 id="29-social-kit"><a href="http://socialkit.madebysource.com/">29. Social Kit</a></h2>
-<p>Social Kit 由 Made by Source 設計，包括社群網站的封面圖、個人圖片和廣告橫福。</p>
-<p><a href="http://socialkit.madebysource.com/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden29-social.jpg" alt="Social Kit"></a></p>
-<h2 id="30-mobile-ui-blueprint-psd-files"><a href="https://dribbble.com/shots/1679085-Mobile-UI-Blueprint-freebie">30. Mobile UI Blueprint psd files</a></h2>
-<p>免費行動裝置 UI 元件 PSD 檔，由 Chrometaphore 設計。</p>
-<p><a href="https://dribbble.com/shots/1679085-Mobile-UI-Blueprint-freebie"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden30-mobileuiblueprint.jpg" alt="Mobile UI Blueprint psd files"></a></p>
-<h2 id="31-free-images"><a href="http://www.freeimages.com/">31. Free Images</a></h2>
-<p>前身為 sxc.hu，Free Images 提供超過 395,000 免費圖庫圖片下載。</p>
-<p><a href="http://www.freeimages.com/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden31-freeimages.jpg" alt="Free Images"></a></p>
-<h2 id="32-ui-cloud"><a href="http://ui-cloud.com/">32. UI Cloud</a></h2>
-<p>全世界最大的使用者介面設計資料庫，提供超過 46,608 種 UI 元件免費下載。</p>
-<p>延伸閱讀：<a href="https://free.com.tw/ui-cloud/">UICloud 免費 UI 素材搜尋引擎，含 GUI 設計作品全部免費下載！</a></p>
-<p><a href="http://ui-cloud.com/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden32-uicloud.jpg" alt="UI Cloud"></a></p>
-<h2 id="33-mock-up-zones"><a href="https://www.facebook.com/mockupzone/notes">33. Mock Up Zones</a></h2>
-<p>Mock Up Zones 是一個免費圖片設計公司，提供 iPads、iPhones、商務名片和 T 恤的免費版面設計模版。</p>
-<p><a href="https://www.facebook.com/mockupzone/notes"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden33-mockupzones.jpg" alt="Mock Up Zones"></a></p>
-<h2 id="34-macbook-air-and-thunderbolt-display"><a href="https://dribbble.com/shots/1121719-PSD-Macbook-Air-Thunderbolt-Display-Freebie">34. Macbook Air and Thunderbolt Display</a></h2>
-<p>由設計師 Jozef Mak 創作，免費的 Macbook Air 和 Thunderbolt 顯示器 PSD 檔。</p>
-<p><a href="https://dribbble.com/shots/1121719-PSD-Macbook-Air-Thunderbolt-Display-Freebie"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden34-mac.jpg" alt="Macbook Air and Thunderbolt Display"></a></p>
-<h2 id="35-greyscalegorilla-3d-tutorials"><a href="http://greyscalegorilla.com/blog/tutorials/">35. Greyscalegorilla 3D Tutorials</a></h2>
-<p>與這網站的站長都是 OFFF 2010 講者，我得說他是一個友善且有才華的藝術家。他的網站是許多 3D 藝術家的靈感來源，也提供可供你學習的教學。</p>
-<p><a href="http://greyscalegorilla.com/blog/tutorials/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden35-greyscalegorilla.jpg" alt="Greyscalegorilla 3D Tutorials"></a></p>
-<h2 id="36-vray-materials"><a href="http://www.vray-materials.de/all_materials.php">36. Vray Materials</a></h2>
-<p>超愛這個網站！如果你需要免費的 Vray materials 素材，可以來這裡找找。</p>
-<p><a href="http://www.vray-materials.de/all_materials.php"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden36-vray-materials.jpg" alt="Vray Materials"></a></p>
-<h2 id="37-blendme"><a href="http://blendme.in/">37. Blendme</a></h2>
-<p>這個外掛可以讓 Adobe Photoshop 和 Illustrator 搜尋成千上萬的資源，無須離開應用程式，其中包括熱門的免費圖示集。</p>
-<p><a href="http://blendme.in/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden37-blendme.jpg" alt="Blendme"></a></p>
-<h2 id="38-adobeknowhow"><a href="https://www.adobeknowhow.com/">38. AdobeKnowHow</a></h2>
-<p>Adobe 最近剛上線的新網站，這網站提供你一些 Adobe 產品的免費初學者課程。</p>
-<p><a href="https://www.adobeknowhow.com/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden38-adobe.jpg" alt="AdobeKnowHow"></a></p>
-<h2 id="39-tuts"><a href="http://design.tutsplus.com/">39. Tuts+</a></h2>
-<p>一個絕佳的網站，提供你多種應用程式的教學。不僅為初學者，也為專業人員。</p>
-<p><a href="http://design.tutsplus.com/"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden39-tut-.jpg" alt="Tuts+"></a></p>
-<h2 id="40-pixeden"><a href="http://www.pixeden.com/free-design-web-resources">40. Pixeden</a></h2>
-<p>Pixeden 是你不能錯過的網站，收錄許多免費資源，包括網站設計、模版和特效等等。</p>
-<p><a href="http://www.pixeden.com/free-design-web-resources"><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixeden40-pixeden.jpg" alt="Pixeden"></a></p>
 ]]></content>
     </entry>
     <entry>
@@ -721,9 +591,9 @@ Markdown 标记语言的目的不是替代 HTML，也不是发明一种更便捷
 
 </code></pre>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-245849"><label class="task-list-item-label" for="task-item-245849"> 洗碗</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9383640"><label class="task-list-item-label" for="task-item-9383640"> 清洗油烟机</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7845176"><label class="task-list-item-label" for="task-item-7845176"> 拖地</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-6710853"><label class="task-list-item-label" for="task-item-6710853"> 洗碗</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5476639"><label class="task-list-item-label" for="task-item-5476639"> 清洗油烟机</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5569845"><label class="task-list-item-label" for="task-item-5569845"> 拖地</label></li>
 </ul>
 <pre><code>
 
@@ -2153,38 +2023,6 @@ CSS 文件、JavaScript 脚本等也可以放到 CDN 那里，<br>
 <li>didder</li>
 <li></li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://akuntime.cn//post/hello-gridea</id>
-        <link href="https://akuntime.cn//post/hello-gridea">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
