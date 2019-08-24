@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akuntime.cn/</id>
     <title>无心木偶</title>
-    <updated>2019-08-17T02:18:52.190Z</updated>
+    <updated>2019-08-24T02:25:58.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://akuntime.cn/"/>
     <link rel="self" href="https://akuntime.cn//atom.xml"/>
@@ -12,17 +12,45 @@
     <icon>https://akuntime.cn//favicon.ico</icon>
     <rights>All rights reserved 2019, 无心木偶</rights>
     <entry>
+        <title type="html"><![CDATA[【Mac更改系统字体】Mac 10.13.6更改系统字体（筑紫柔黑）]]></title>
+        <id>https://akuntime.cn//post/mac-geng-gai-xi-tong-zi-ti-mac-10136-geng-gai-xi-tong-zi-ti-zhu-zi-rou-hei</id>
+        <link href="https://akuntime.cn//post/mac-geng-gai-xi-tong-zi-ti-mac-10136-geng-gai-xi-tong-zi-ti-zhu-zi-rou-hei">
+        </link>
+        <updated>2019-08-24T02:25:42.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="mac-10136更改系统字体筑紫柔黑">Mac 10.13.6更改系统字体（筑紫柔黑）</h1>
+<blockquote>
+<p>先说几个问题和需要讨论的问题</p>
+</blockquote>
+<ol>
+<li>用的字体是『心雨』的『筑紫柔黑』字体</li>
+<li>在Mac系统上年中文没有问题全部适配</li>
+<li>在英文上没有显示，不知道是为什么调试了很就都不行，有没有知道为什么英文不行的。大神研究一下。<strong>字体里面是带有英文的</strong>『我实在是搞不明白了』</li>
+</ol>
+<h2 id="上图">上图<img src="https://i.loli.net/2019/08/24/tKAs9dBrSNWiTqR.png" alt="Snip20190824_1"></h2>
+<p><img src="https://i.loli.net/2019/08/24/lOanJe7LEtRBQjb.png" alt="Snip20190824_2"><br>
+<img src="https://i.loli.net/2019/08/24/lafPD5Oj3m6Ezio.png" alt="Snip20190824_3"><br>
+<img src="https://i.loli.net/2019/08/24/ijcWKONAVhFE7U1.png" alt="Snip20190824_4"><br>
+<img src="https://i.loli.net/2019/08/24/JfDmBz3VIgclx68.png" alt="Snip20190824_9"><br>
+<img src="https://i.loli.net/2019/08/24/BigKOALVf1Yr2F8.png" alt="Snip20190824_10"><br>
+<img src="https://i.loli.net/2019/08/24/VWDUctp6yq2BmdC.png" alt="Snip20190824_11"><br>
+<img src="https://i.loli.net/2019/08/24/ak4CSLt1z5oeXhU.png" alt="Snip20190824_12"></p>
+<h2 id="安装方式也很简单">安装方式也很简单</h2>
+<p>打开字体册──拖进去安装就行。<strong>需要重新系统一下</strong></p>
+<h4 id="需要注意一定要备份好苹方原机自带字体">需要注意：一定要备份好『苹方』原机自带字体。</h4>
+<h4 id="问题英文没有显示大家谁有经验研究一下">问题：英文没有显示大家谁有经验研究一下</h4>
+<p>下载链接：https://pan.baidu.com/s/1UAY5X0QBny7ss1mLdd9puw  密码:x74i</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[40 個設計師必備免費資源，超推懶人包！]]></title>
         <id>https://akuntime.cn//post/40-ge-she-ji-shi-bi-bei-mian-fei-zi-yuan-chao-tui-lan-ren-bao</id>
         <link href="https://akuntime.cn//post/40-ge-she-ji-shi-bi-bei-mian-fei-zi-yuan-chao-tui-lan-ren-bao">
         </link>
         <updated>2019-08-17T02:18:11.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="40-個設計師必備免費資源超推懶人包">40 個設計師必備免費資源，超推懶人包！</h1>
-<p><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixedenphoto-1424298397478-4bd87a6a0f0c.jpeg" alt="40 個設計師必備免費資源，超推懶人包！"></p>
-<p>你可曾想過，設計師們都從那裡獲得大量資源，以幫助他們完成手邊的專案呢？這裡有一份絕佳的<a href="https://free.com.tw/">免費資源</a>列表，包括網站、PSD 檔、UI 元件以及網頁模版等等的相關素材，最重要的是這些資源完全免費！並可自由下載使用。</p>
+        <summary type="html"><![CDATA[<p><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixedenphoto-1424298397478-4bd87a6a0f0c.jpeg" alt="40 個設計師必備免費資源，超推懶人包！"></p>
 ]]></summary>
-        <content type="html"><![CDATA[<h1 id="40-個設計師必備免費資源超推懶人包">40 個設計師必備免費資源，超推懶人包！</h1>
-<p><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixedenphoto-1424298397478-4bd87a6a0f0c.jpeg" alt="40 個設計師必備免費資源，超推懶人包！"></p>
+        <content type="html"><![CDATA[<p><img src="https://free.com.tw/blog/wp-content/uploads/2015/06/Pixedenphoto-1424298397478-4bd87a6a0f0c.jpeg" alt="40 個設計師必備免費資源，超推懶人包！"></p>
+<!-- more -->
 <p>你可曾想過，設計師們都從那裡獲得大量資源，以幫助他們完成手邊的專案呢？這裡有一份絕佳的<a href="https://free.com.tw/">免費資源</a>列表，包括網站、PSD 檔、UI 元件以及網頁模版等等的相關素材，最重要的是這些資源完全免費！並可自由下載使用。</p>
 <!-- more -->
 <p>只需要點選網站標題或擷圖，就會帶你到相對應的免費資源網站。</p>
@@ -693,9 +721,9 @@ Markdown 标记语言的目的不是替代 HTML，也不是发明一种更便捷
 
 </code></pre>
 <ul class="contains-task-list">
-<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-3348801"><label class="task-list-item-label" for="task-item-3348801"> 洗碗</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9192681"><label class="task-list-item-label" for="task-item-9192681"> 清洗油烟机</label></li>
-<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-8694005"><label class="task-list-item-label" for="task-item-8694005"> 拖地</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" checked="" disabled="" type="checkbox" id="task-item-245849"><label class="task-list-item-label" for="task-item-245849"> 洗碗</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9383640"><label class="task-list-item-label" for="task-item-9383640"> 清洗油烟机</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-7845176"><label class="task-list-item-label" for="task-item-7845176"> 拖地</label></li>
 </ul>
 <pre><code>
 
